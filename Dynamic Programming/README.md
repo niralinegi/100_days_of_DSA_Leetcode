@@ -1,23 +1,6 @@
 The problems to be solved by using Dynamic Programming are:
 
-Tor Root:
-Today's session is going to be a light one and will be the last session in DP. We will be solving only one problem today ie edit distance.
-
-All the remaining problems will be covered in the later timeline of the bootcamp.
-
-1) Longest common substring
-2) Longest repeating substring
-3) Longest increasing subsequence
-4) Maximum sun increasing subsequence
-5) Max length chain of pairs
-6) Kadane algorithm
-7) Largest sum in circular array
-8) MCM
-9) Suger egg drop
-10) Palindrome partitioning 4
-
-"Problems covered untill this point"
- 1) Climbing Stairs 
+1) Climbing Stairs 
 2) Min Cost Climbing Stairs  
 3) Fibonacci Number 
 4) Tribonacci Number
@@ -59,3 +42,13 @@ All the remaining problems will be covered in the later timeline of the bootcamp
 39) Decide ways 
 40) Pascal triangle 1 
 41) Pascal triangle 2 
+43) Longest common substring
+44) Longest repeating substring
+45) Longest increasing subsequence
+46) Maximum sun increasing subsequence
+47) Max length chain of pairs
+48) Kadane algorithm
+49) Largest sum in circular array
+50) MCM
+51) Suger egg drop
+52) Palindrome partitioning 4
