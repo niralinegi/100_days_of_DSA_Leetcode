@@ -3,10 +3,9 @@ class Solution:
         prevMap = {}
         
         for i, val in enumerate(nums):
-            diff = target-val
-            if diff in prevMap:
-                return [prevMap[diff],i]
+            complement = target - val
+            if complement in prevMap:
+                return prevMap[complement], i
             else:
                 prevMap[val] = i
-        return 
         
