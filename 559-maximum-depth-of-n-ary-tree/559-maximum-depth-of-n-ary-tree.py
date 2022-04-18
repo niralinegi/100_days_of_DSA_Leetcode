@@ -19,5 +19,5 @@ class Solution:
         for currNode in root.children:
             ans = max(ans, self.height(currNode))
             
-        return 1+ans
+        return 1 + ans
         
