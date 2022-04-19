@@ -18,5 +18,5 @@ class Solution:
         self.preorder(root.left, answer)
         self.preorder(root.right, answer)
         
-        
+        return
         
