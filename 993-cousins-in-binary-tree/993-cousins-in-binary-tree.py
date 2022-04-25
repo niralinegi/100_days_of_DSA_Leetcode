@@ -9,7 +9,7 @@ class Solution:
         parents = [0, 0]
         levels = [0, 0]
         
-        self.findParentsAndLevel(root, TreeNode(0,0,0), 0, x, y, parents, levels)
+        self.findParentsAndLevel(root, TreeNode(-1), 0, x, y, parents, levels)
         
         return (parents[0] != parents[1]) and (levels[0] == levels[1])
     
